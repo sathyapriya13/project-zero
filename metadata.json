@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT ZERO — The Digital Crime Time Machine",
+  "description": "Every digital crime leaves a trace. Rewind the evidence. Advanced cybersecurity forensics platform for attack timeline reconstruction, graph correlation, and threat replay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

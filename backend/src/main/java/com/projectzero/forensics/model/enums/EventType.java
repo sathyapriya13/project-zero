@@ -1,0 +1,18 @@
+package com.projectzero.forensics.model.enums;
+
+public enum EventType {
+    AUTH_SUCCESS,
+    AUTH_FAILURE,
+    PROCESS_SPAWN,
+    PROCESS_TERMINATE,
+    FILE_READ,
+    FILE_CREATE,
+    FILE_MODIFY,
+    FILE_DELETE,
+    NETWORK_CONNECT,
+    NETWORK_EXFILTRATE,
+    PRIVILEGE_ELEVATE,
+    REGISTRY_WRITE,
+    LOG_TAMPER,
+    SCHEDULED_TASK_CREATE
+}
